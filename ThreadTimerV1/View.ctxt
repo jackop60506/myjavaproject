@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=View()
+comment1.params=ctl
+comment1.target=void\ setController(Controller)
+comment2.params=m\ s
+comment2.target=void\ refresh(int,\ int)
+numComments=3

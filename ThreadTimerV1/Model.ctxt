@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=void\ setMinute(int)
+comment1.params=s
+comment1.target=void\ setSecond(int)
+comment2.params=
+comment2.target=int\ getMinute()
+comment3.params=
+comment3.target=int\ getSecond()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=ctl
+comment5.target=void\ setOberver(Controller)
+numComments=6
