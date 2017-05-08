@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ImgSequence
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ImgSequence\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=imgPath\ fnames
+comment1.target=ImgSequence(java.lang.String,\ java.lang.String[])
+comment2.params=
+comment2.target=java.awt.Image\ nextImage()
+comment3.params=
+comment3.target=java.lang.Object\ clone()
+numComments=4

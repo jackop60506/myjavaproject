@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Model
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Model\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ctl\ x\ y\ dw\ dh\ seq\ f
+comment1.target=Model(Control,\ double,\ double,\ double,\ double,\ ImgSequence,\ Fish)
+comment2.params=ctl\ x\ y\ dw\ dh\ seq\ f
+comment2.target=Model(Control,\ double,\ double,\ double,\ double,\ ImgSequence,\ Bird)
+comment3.params=
+comment3.target=double\ getCurrX()
+comment4.params=
+comment4.target=double\ getCurrY()
+comment5.params=x
+comment5.target=void\ setCurrX(double)
+comment6.params=y
+comment6.target=void\ setCurrY(double)
+comment7.params=
+comment7.target=double\ getWidth()
+comment8.params=
+comment8.target=double\ getHeight()
+comment9.params=
+comment9.target=ImgSequence\ getImageSequence()
+numComments=10
